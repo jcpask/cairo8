@@ -1,1 +1,49 @@
+body
+{
+    font-family: Helvetica;
+    background-color: lightgray;
+    }
+a:hover {
+  background-color: yellow;
+}
+div {
+    background-color: whitesmoke;
+    font-family: Helvetica;
+    color: darkmagenta;
+    width: 500px;
+    border-style: solid;
+    text-align: justified;
+    padding: 10px;
+    margin: 5px;
+    }
+h1 {
+    background-color: azure;
+    color: darkslategray;
+    width:500px;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    border-style:double;
+    margin-bottom:30px;
+    }
+h2 {
+    background-color:floralwhite;
+    color: darkslategray;
+    width: 240px;
+    border-style: solid;
+    text-align: center;
+    padding: 3px;
+    margin: 5px;
+    font-style:italic;
+    }
 
+#summary {
+         background-color:floralwhite;
+        color: darkslategray;
+        width: 500px;
+        border-style: solid;
+        text-align: justified;
+        padding: 10px;
+        margin: 5px;
+        margin-bottom:30px;
+         }
